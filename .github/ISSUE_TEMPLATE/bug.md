@@ -7,7 +7,7 @@ assignees: miamatriarx
 
 ---
 
-Thank you for taking the time to report a bug.  Before creating a new issue have a look at the existing [issues](https://github.com/miamatriarx/miamatriarx/issues) to make sure you don't create a duplicate issue, otherwise rather contribute to the existing issue.
+Thank you for taking the time to report a bug.  Before creating a new issue have a look at the existing [issues](https://github.com/miamatriarx/mia/issues) to make sure you don't create a duplicate issue, otherwise rather contribute to the existing issue.
 
 **What is the issue?**
 Provide detail about what you're observing and how it differs from what you expect.
@@ -30,4 +30,4 @@ i.e. https://example.tld
 **How can we contact you if we need more information?**
 i.e. @username
 
-**By submitting this issue you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that any contribution you make will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license.md) license, in doing so you agree to our terms and void all claims to intellectual propertly or copyright.**
+**By submitting this issue you agree to follow our [code of conduct](https://github.com/miamatriarx/mia/code_of_conduct.md) and that any contribution you make will fall under the [MIT](https://github.com/miamatriarx/mia/license.md) license, in doing so you agree to our terms and void all claims to intellectual propertly or copyright.**

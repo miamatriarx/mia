@@ -22,7 +22,7 @@ Specify whether or not this update contains breaking changes and if so provide d
 - [ ] I have tested my code and did quality assurance, as well as writing new tests where necessary.
 - [ ] I have linted and formatted my code to be consistent with the existing codebase.
 - [ ] I have pulled the latest changes before submitting this request and carefully resolved any merge conflicts.
-- [ ] I have followed the [contributing](https://github.com/miamatriarx/miamatriarx/contributing.md) stipulations and my work contains a proper branch name and title and a linear commit history with properly named and formatted conventional commits.
-- [ ] I understand that this contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license.md) license and that I void all claims to any intellectual property or copyright.
+- [ ] I have followed the [contributing](https://github.com/miamatriarx/mia/contributing.md) stipulations and my work contains a proper branch name and title and a linear commit history with properly named and formatted conventional commits.
+- [ ] I understand that this contribution will fall under the [MIT](https://github.com/miamatriarx/mia/license.md) license and that I void all claims to any intellectual property or copyright.
 
 @miamatriarx
