@@ -64,43 +64,43 @@
 
 <p>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=alert_status" title="Quality Gate" alt="Quality Gate"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=alert_status" title="Quality Gate" alt="Quality Gate"/>
   </a>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=security_rating" title="Security" alt="Security"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=security_rating" title="Security" alt="Security"/>
   </a>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=reliability_rating" title="Reliability" alt="Reliability"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=reliability_rating" title="Reliability" alt="Reliability"/>
   </a>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=sqale_rating" title="Maintainability" alt="Maintainability"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=vulnerabilities" title="Vulnerabilities" alt="Vulnerabilities"/>
-  </a>
-  <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=bugs" title="Bugs" alt="Bugs"/>
-  </a>
-  <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=code_smells" title="Code Smells" alt="Code Smells"/>
-  </a>
-  <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=sqale_index" title="Technical Debt" alt="Technical Debt"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=sqale_rating" title="Maintainability" alt="Maintainability"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=ncloc" title="Lines Of Code" alt="Lines Of Code"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=vulnerabilities" title="Vulnerabilities" alt="Vulnerabilities"/>
   </a>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=duplicated_lines_density" title="Duplicated Lines" alt="Duplicated Lines"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=bugs" title="Bugs" alt="Bugs"/>
   </a>
   <a href="https://github.com/miamatriarx/mia">
-    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_meta&metric=coverage" title="Coverage" alt="Coverage"/>
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=code_smells" title="Code Smells" alt="Code Smells"/>
+  </a>
+  <a href="https://github.com/miamatriarx/mia">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=sqale_index" title="Technical Debt" alt="Technical Debt"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx/mia">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=ncloc" title="Lines Of Code" alt="Lines Of Code"/>
+  </a>
+  <a href="https://github.com/miamatriarx/mia">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=duplicated_lines_density" title="Duplicated Lines" alt="Duplicated Lines"/>
+  </a>
+  <a href="https://github.com/miamatriarx/mia">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_mia&metric=coverage" title="Coverage" alt="Coverage"/>
   </a>
 </p>
 
