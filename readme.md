@@ -60,6 +60,9 @@
   <a href="https://github.com/miamatriarx/mia">
     <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" title="SonarCloud" alt="SonarCloud"/>
   </a>
+  <a href="https://github.com/miamatriarx/meta">
+    <img src="https://sonarcloud.io/api/project_badges/quality_gate?project=miamatriarx_mia" title="Quality Gate" alt="Quality Gate"/>
+  </a>
 </p>
 
 <p>
