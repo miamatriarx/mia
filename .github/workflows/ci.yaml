@@ -54,15 +54,6 @@ jobs:
             -Dsonar.organization=miamatriarx
             -Dsonar.projectKey=miamatriarx_mia
             -Dsonar.projectBaseDir=.
+            -Dsonar.sources=src
             -Dsonar.tests=tests
             -Dsonar.verbose=true
-  test:
-    name: Test
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Mock
-        run: echo "Passed"
