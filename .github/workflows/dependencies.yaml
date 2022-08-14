@@ -11,9 +11,6 @@ on:
       - opened
       - synchronize
       - reopened
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
 jobs:
   dependency-review:
     name: Dependency Review
