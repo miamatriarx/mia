@@ -18,11 +18,11 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
-  qa:
-    name: Quality Assurance
+  analyze:
+    name: Analyze
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: read
+    env:
+      ENVIRONMENT: ci
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -40,3 +40,11 @@ jobs:
             -Dsonar.sources=src
             -Dsonar.tests=tests
             -Dsonar.verbose=true
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    env:
+      ENVIRONMENT: production
+    steps:
+      - name: Build
+        run: echo Mock
